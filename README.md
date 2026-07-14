@@ -40,6 +40,9 @@ Godot 4/C# 기반 턴제 멀티플레이 신 게임. WebSocket 기반 서버-클
 ### [모션 인식 웹게임](https://github.com/jihoon0221/mc3)
 MediaPipe 포즈/얼굴 인식 기반 웹캠 미니게임 모음. React · MediaPipe Tasks Vision.
 
+### [on](https://github.com/jihoon0221/mc4on)
+외국인 연인을 둔 사람을 위한 로맨스 스캠 탐지 앱. 카카오톡 대화를 분석해 위험 패턴을 태깅하고 신고를 유도. Expo(React Native) · FastAPI · PostgreSQL · Groq. 팀 프로젝트.
+
 ## 연락처
 - Email: szh0221@naver.com
 - GitHub: [@jihoon0221](https://github.com/jihoon0221)
